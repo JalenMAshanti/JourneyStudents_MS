@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29AB1336-5C24-4C11-82B0-CDC0C131BFC3}|..\\JSMS.Api\\JSMS.Api.csproj|c:\\users\\jalen\\onedrive\\documents\\webappprojects\\journeystudentsmanagementsystem\\jsms.api\\controllers\\leadercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAB6D9A-20B0-4A73-9347-8AD45A9D7F8F}|..\\JSMS.Persitence\\JSMS.Persitence.csproj|c:\\users\\jalen\\onedrive\\documents\\webappprojects\\journeystudentsmanagementsystem\\jsms.persitence\\repositories\\leaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E229AB-9771-4A09-A9E8-7A03C31260F9}|..\\JSMS.Application\\JSMS.Application.csproj|c:\\users\\jalen\\onedrive\\documents\\webappprojects\\journeystudentsmanagementsystem\\jsms.application\\abstractions\\leaderabstraction\\ileaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaderController.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Api\\Controllers\\LeaderController.cs",
+              "RelativeDocumentMoniker": "..\\JSMS.Api\\Controllers\\LeaderController.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Api\\Controllers\\LeaderController.cs",
+              "RelativeToolTip": "..\\JSMS.Api\\Controllers\\LeaderController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA5wBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:27:15.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\Repositories\\LeaderRepository.cs",
+              "RelativeDocumentMoniker": "..\\JSMS.Persitence\\Repositories\\LeaderRepository.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\Repositories\\LeaderRepository.cs",
+              "RelativeToolTip": "..\\JSMS.Persitence\\Repositories\\LeaderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:22:03.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Application\\Abstractions\\LeaderAbstraction\\ILeaderRepository.cs",
+              "RelativeDocumentMoniker": "..\\JSMS.Application\\Abstractions\\LeaderAbstraction\\ILeaderRepository.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Application\\Abstractions\\LeaderAbstraction\\ILeaderRepository.cs",
+              "RelativeToolTip": "..\\JSMS.Application\\Abstractions\\LeaderAbstraction\\ILeaderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:21:24.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1578,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

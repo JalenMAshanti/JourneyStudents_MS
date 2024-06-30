@@ -1,0 +1,12 @@
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\bin\Debug\net8.0\JSMS.Domain.deps.json
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\bin\Debug\net8.0\JSMS.Domain.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\bin\Debug\net8.0\JSMS.Domain.pdb
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\obj\Debug\net8.0\JSMS.Domain.csproj.AssemblyReference.cache
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\obj\Debug\net8.0\JSMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\obj\Debug\net8.0\JSMS.Domain.AssemblyInfoInputs.cache
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\obj\Debug\net8.0\JSMS.Domain.AssemblyInfo.cs
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\obj\Debug\net8.0\JSMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\obj\Debug\net8.0\JSMS.Domain.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\obj\Debug\net8.0\refint\JSMS.Domain.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\obj\Debug\net8.0\JSMS.Domain.pdb
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\obj\Debug\net8.0\ref\JSMS.Domain.dll

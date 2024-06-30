@@ -1,0 +1,15 @@
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\bin\Debug\net8.0\JSMS.Application.deps.json
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\bin\Debug\net8.0\JSMS.Application.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\bin\Debug\net8.0\JSMS.Application.pdb
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\bin\Debug\net8.0\JSMS.Domain.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\bin\Debug\net8.0\JSMS.Domain.pdb
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\obj\Debug\net8.0\JSMS.Application.csproj.AssemblyReference.cache
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\obj\Debug\net8.0\JSMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\obj\Debug\net8.0\JSMS.Application.AssemblyInfoInputs.cache
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\obj\Debug\net8.0\JSMS.Application.AssemblyInfo.cs
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\obj\Debug\net8.0\JSMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\obj\Debug\net8.0\JSMS.App.13911A1F.Up2Date
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\obj\Debug\net8.0\JSMS.Application.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\obj\Debug\net8.0\refint\JSMS.Application.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\obj\Debug\net8.0\JSMS.Application.pdb
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\obj\Debug\net8.0\ref\JSMS.Application.dll

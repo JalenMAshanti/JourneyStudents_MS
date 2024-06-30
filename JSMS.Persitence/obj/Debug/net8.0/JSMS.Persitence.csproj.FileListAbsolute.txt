@@ -1,0 +1,17 @@
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\obj\Debug\net8.0\JSMS.Persitence.csproj.AssemblyReference.cache
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\obj\Debug\net8.0\JSMS.Persitence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\obj\Debug\net8.0\JSMS.Persitence.AssemblyInfoInputs.cache
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\obj\Debug\net8.0\JSMS.Persitence.AssemblyInfo.cs
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\obj\Debug\net8.0\JSMS.Persitence.csproj.CoreCompileInputs.cache
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\bin\Debug\net8.0\JSMS.Persitence.deps.json
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\bin\Debug\net8.0\JSMS.Persitence.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\bin\Debug\net8.0\JSMS.Persitence.pdb
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\bin\Debug\net8.0\JSMS.Application.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\bin\Debug\net8.0\JSMS.Domain.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\bin\Debug\net8.0\JSMS.Application.pdb
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\bin\Debug\net8.0\JSMS.Domain.pdb
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\obj\Debug\net8.0\JSMS.Per.3409B742.Up2Date
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\obj\Debug\net8.0\JSMS.Persitence.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\obj\Debug\net8.0\refint\JSMS.Persitence.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\obj\Debug\net8.0\JSMS.Persitence.pdb
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\obj\Debug\net8.0\ref\JSMS.Persitence.dll
