@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JSMS.Persitence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf0c1c09c9ee5b9c01965f8deb49cedad746ac03")]
 [assembly: System.Reflection.AssemblyProductAttribute("JSMS.Persitence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JSMS.Persitence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

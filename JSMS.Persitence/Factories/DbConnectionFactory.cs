@@ -1,25 +1,23 @@
 ﻿using Microsoft.Extensions.Configuration;
 using MySql.Data.MySqlClient;
 using System.Data;
-using System.Security.AccessControl;
 
 namespace JSMS.Persitence.Factories
 {
     public class DbConnectionFactory
     {
         private readonly IDbConnection conn;
-        public DbConnectionFactory() { 
-          
+        public DbConnectionFactory()
+        {
             var config = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json")
                 .Build();
 
-          string? connString = config.GetConnectionString("MySqlConnection");
+            string? connString = config.GetConnectionString("MySqlConnection");
 
-          conn = new MySqlConnection(connString);        
-        }   
-        
+            conn = new MySqlConnection(connString);
+        }
         public IDbConnection GetConnection() { return conn; }
     }
 }

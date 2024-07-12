@@ -1,16 +1,14 @@
-using JSMS.Application.Abstractions;
-using JSMS.Application.Abstractions.StudentAbstraction;
-using Microsoft.AspNetCore.Connections;
 using JSMS.Persitence.Repositories;
-using System.Configuration;
-using MySql.Data.MySqlClient;
 using System.Data;
+using MySql.Data.MySqlClient;
 
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+builder.Services.AddScoped<IDbConnection>(sp =>
+    new MySqlConnection(builder.Configuration.GetConnectionString("MySqlConnection")));
+builder.Services.AddScoped<UserRepository>();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

@@ -10,3 +10,4 @@ C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem
 C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\obj\Debug\net8.0\refint\JSMS.Domain.dll
 C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\obj\Debug\net8.0\JSMS.Domain.pdb
 C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\obj\Debug\net8.0\ref\JSMS.Domain.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Domain\obj\Debug\net8.0\JSMS.Domain.sourcelink.json

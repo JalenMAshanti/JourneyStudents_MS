@@ -64,3 +64,4 @@ C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem
 C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Api\obj\Debug\net8.0\JSMS.Api.sourcelink.json

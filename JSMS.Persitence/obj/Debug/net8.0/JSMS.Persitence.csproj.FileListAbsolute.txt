@@ -15,3 +15,4 @@ C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem
 C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\obj\Debug\net8.0\refint\JSMS.Persitence.dll
 C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\obj\Debug\net8.0\JSMS.Persitence.pdb
 C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\obj\Debug\net8.0\ref\JSMS.Persitence.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Persitence\obj\Debug\net8.0\JSMS.Persitence.sourcelink.json

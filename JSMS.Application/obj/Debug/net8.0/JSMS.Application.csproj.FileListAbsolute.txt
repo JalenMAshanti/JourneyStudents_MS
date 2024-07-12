@@ -13,3 +13,4 @@ C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem
 C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\obj\Debug\net8.0\refint\JSMS.Application.dll
 C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\obj\Debug\net8.0\JSMS.Application.pdb
 C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\obj\Debug\net8.0\ref\JSMS.Application.dll
+C:\Users\jalen\OneDrive\Documents\WebAppProjects\JourneyStudentsManagementSystem\JSMS.Application\obj\Debug\net8.0\JSMS.Application.sourcelink.json

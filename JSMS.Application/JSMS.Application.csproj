@@ -16,8 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="dbo\Tables\leaders\" />
-    <Folder Include="dbo\Tables\students\" />
+    <Folder Include="Abstractions\" />
   </ItemGroup>
 
 </Project>
