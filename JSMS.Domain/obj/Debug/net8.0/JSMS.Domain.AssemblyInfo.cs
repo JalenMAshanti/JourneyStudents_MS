@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JSMS.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+308fb4e75b084e5dd11fdfe15dc34541003da214")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+083b8269fa2b2a61c3bc5a88f4b0c708546c7e0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("JSMS.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JSMS.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\JSMS.Persitence.csproj": {}
+    "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Persitence\\JSMS.Persitence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Application\\JSMS.Application.csproj": {
+    "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Application\\JSMS.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Application\\JSMS.Application.csproj",
+        "projectUniqueName": "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Application\\JSMS.Application.csproj",
         "projectName": "JSMS.Application",
-        "projectPath": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Application\\JSMS.Application.csproj",
+        "projectPath": "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Application\\JSMS.Application.csproj",
         "packagesPath": "C:\\Users\\jalen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Application\\obj\\",
+        "outputPath": "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Domain\\JSMS.Domain.csproj": {
-                "projectPath": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Domain\\JSMS.Domain.csproj"
+              "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Domain\\JSMS.Domain.csproj": {
+                "projectPath": "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Domain\\JSMS.Domain.csproj"
               }
             }
           }
@@ -60,7 +60,11 @@
             },
             "MySql.Data": {
               "target": "Package",
-              "version": "[8.4.0, )"
+              "version": "[9.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             }
           },
           "imports": [
@@ -83,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Domain\\JSMS.Domain.csproj": {
+    "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Domain\\JSMS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Domain\\JSMS.Domain.csproj",
+        "projectUniqueName": "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Domain\\JSMS.Domain.csproj",
         "projectName": "JSMS.Domain",
-        "projectPath": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Domain\\JSMS.Domain.csproj",
+        "projectPath": "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Domain\\JSMS.Domain.csproj",
         "packagesPath": "C:\\Users\\jalen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Domain\\obj\\",
+        "outputPath": "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -131,7 +135,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.7, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -143,7 +147,7 @@
             },
             "MySql.Data": {
               "target": "Package",
-              "version": "[8.4.0, )"
+              "version": "[9.0.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -151,7 +155,7 @@
             },
             "System.Text.Json": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.4, )"
             }
           },
           "imports": [
@@ -174,14 +178,14 @@
         }
       }
     },
-    "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\JSMS.Persitence.csproj": {
+    "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Persitence\\JSMS.Persitence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\JSMS.Persitence.csproj",
+        "projectUniqueName": "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Persitence\\JSMS.Persitence.csproj",
         "projectName": "JSMS.Persitence",
-        "projectPath": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\JSMS.Persitence.csproj",
+        "projectPath": "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Persitence\\JSMS.Persitence.csproj",
         "packagesPath": "C:\\Users\\jalen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\obj\\",
+        "outputPath": "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Persitence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -203,11 +207,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Application\\JSMS.Application.csproj": {
-                "projectPath": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Application\\JSMS.Application.csproj"
+              "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Application\\JSMS.Application.csproj": {
+                "projectPath": "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Application\\JSMS.Application.csproj"
               },
-              "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Domain\\JSMS.Domain.csproj": {
-                "projectPath": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Domain\\JSMS.Domain.csproj"
+              "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Domain\\JSMS.Domain.csproj": {
+                "projectPath": "E:\\SoftwareDevelopmentHub\\Projects\\JourneyGen\\Backend\\JourneyStudents_MS\\JSMS.Domain\\JSMS.Domain.csproj"
               }
             }
           }
@@ -241,7 +245,11 @@
             },
             "MySql.Data": {
               "target": "Package",
-              "version": "[8.4.0, )"
+              "version": "[9.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             }
           },
           "imports": [
