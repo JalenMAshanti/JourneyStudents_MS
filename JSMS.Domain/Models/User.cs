@@ -4,7 +4,7 @@
     {
         public User() { }
 
-        public User(int id, string? firstName, string? lastName, string? email, string? gender, int grade, int roleId, long phoneNumber, int groupId, bool isActive, bool isVerified)
+        public User(int id, string? firstName, string? lastName, string? email, string? gender, int grade, int roleId, long phoneNumber, int groupId, bool isActive, bool isVerified, string password)
         {
             Id = id;
             FirstName = firstName;
@@ -17,6 +17,7 @@
             GroupId = groupId;
             IsActive = isActive;
             IsVerified = isVerified;
+            Password = password;
         }
 
         public int Id { get; set; }
@@ -30,5 +31,6 @@
         public int GroupId { get; set; }
         public bool IsActive { get; set; } = false;
         public bool IsVerified { get; set; } = false;
+        public string? Password { get; set; }
     }
 }

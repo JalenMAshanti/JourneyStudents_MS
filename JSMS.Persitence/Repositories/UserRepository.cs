@@ -25,15 +25,46 @@ namespace JSMS.Persitence.Repositories
         public async Task<IEnumerable<User_DTO>> GetAllUsersAsync()
         {
             string sql = "SELECT Id, FirstName, LastName, Gender, Grade, IsActive, IsVerified, Email, RoleId, GroupId FROM user;";
-            var users = await _db.QueryAsync<User_DTO>(sql);
-            return users.ToList();
+            try
+            {
+                var users = await _db.QueryAsync<User_DTO>(sql);
+                
+                if (users is null) { 
+                    
+                   return new List<User_DTO>();
+                }
+
+                return users;
+            }
+            catch (Exception ex) 
+            {
+                string message = ex.Message;
+
+                return new List<User_DTO>();
+            }                      
         }
 
         public async Task<User_DTO> GetUserByIdAsync(int id)
         {
             string sql = "SELECT * FROM user WHERE Id = @Id";
-            User_DTO? user = await _db.QuerySingleOrDefaultAsync<User_DTO>(sql, new { Id = id });
-            return user;
+
+            try
+            {
+                User_DTO? user = await _db.QuerySingleOrDefaultAsync<User_DTO>(sql, new { Id = id });
+
+                if (user is null) 
+                { 
+                    return new User_DTO();
+                }
+
+                return user;
+            }
+            catch (Exception ex) 
+            {
+                string message = ex.Message;
+
+                return new User_DTO();
+            }          
         }
     }
 }

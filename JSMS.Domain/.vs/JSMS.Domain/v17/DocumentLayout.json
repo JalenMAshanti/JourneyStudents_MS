@@ -3,38 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Domain\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BAB6D9A-20B0-4A73-9347-8AD45A9D7F8F}|..\\JSMS.Persitence\\JSMS.Persitence.csproj|c:\\users\\jalen\\onedrive\\documents\\webappprojects\\journeystudentsmanagementsystem\\jsms.persitence\\models\\register\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AB1336-5C24-4C11-82B0-CDC0C131BFC3}|..\\JSMS.Api\\JSMS.Api.csproj|c:\\users\\jalen\\onedrive\\documents\\webappprojects\\journeystudentsmanagementsystem\\jsms.api\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AB1336-5C24-4C11-82B0-CDC0C131BFC3}|..\\JSMS.Api\\JSMS.Api.csproj|c:\\users\\jalen\\onedrive\\documents\\webappprojects\\journeystudentsmanagementsystem\\jsms.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BAB6D9A-20B0-4A73-9347-8AD45A9D7F8F}|..\\JSMS.Persitence\\JSMS.Persitence.csproj|c:\\users\\jalen\\onedrive\\documents\\webappprojects\\journeystudentsmanagementsystem\\jsms.persitence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BAB6D9A-20B0-4A73-9347-8AD45A9D7F8F}|..\\JSMS.Persitence\\JSMS.Persitence.csproj|c:\\users\\jalen\\onedrive\\documents\\webappprojects\\journeystudentsmanagementsystem\\jsms.persitence\\factories\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29AB1336-5C24-4C11-82B0-CDC0C131BFC3}|..\\JSMS.Api\\JSMS.Api.csproj|c:\\users\\jalen\\onedrive\\documents\\webappprojects\\journeystudentsmanagementsystem\\jsms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BAB6D9A-20B0-4A73-9347-8AD45A9D7F8F}|..\\JSMS.Persitence\\JSMS.Persitence.csproj|c:\\users\\jalen\\onedrive\\documents\\webappprojects\\journeystudentsmanagementsystem\\jsms.persitence\\datatransferobjects\\user_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BAB6D9A-20B0-4A73-9347-8AD45A9D7F8F}|..\\JSMS.Persitence\\JSMS.Persitence.csproj|c:\\users\\jalen\\onedrive\\documents\\webappprojects\\journeystudentsmanagementsystem\\jsms.persitence\\repositories\\registerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BAB6D9A-20B0-4A73-9347-8AD45A9D7F8F}|..\\JSMS.Persitence\\JSMS.Persitence.csproj|c:\\users\\jalen\\onedrive\\documents\\webappprojects\\journeystudentsmanagementsystem\\jsms.persitence\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DA13991-A236-4A6F-B231-EB59DC9F70DD}|JSMS.Domain.csproj|c:\\users\\jalen\\onedrive\\documents\\webappprojects\\journeystudentsmanagementsystem\\jsms.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DA13991-A236-4A6F-B231-EB59DC9F70DD}|JSMS.Domain.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BAB6D9A-20B0-4A73-9347-8AD45A9D7F8F}|..\\JSMS.Persitence\\JSMS.Persitence.csproj|c:\\users\\jalen\\onedrive\\documents\\webappprojects\\journeystudentsmanagementsystem\\jsms.persitence\\mappers\\registerrequestmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -60,139 +29,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\JSMS.Persitence\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "..\\JSMS.Persitence\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwAcAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T01:54:32.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Api\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "..\\JSMS.Api\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Api\\Controllers\\UserController.cs",
-              "RelativeToolTip": "..\\JSMS.Api\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T01:49:38.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User_DTO.cs",
-              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\DataTransferObjects\\User_DTO.cs",
-              "RelativeDocumentMoniker": "..\\JSMS.Persitence\\DataTransferObjects\\User_DTO.cs",
-              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\DataTransferObjects\\User_DTO.cs",
-              "RelativeToolTip": "..\\JSMS.Persitence\\DataTransferObjects\\User_DTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T04:08:24.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DbConnectionFactory.cs",
-              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\Factories\\DbConnectionFactory.cs",
-              "RelativeDocumentMoniker": "..\\JSMS.Persitence\\Factories\\DbConnectionFactory.cs",
-              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\Factories\\DbConnectionFactory.cs",
-              "RelativeToolTip": "..\\JSMS.Persitence\\Factories\\DbConnectionFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T03:25:52.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterController.cs",
-              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Api\\Controllers\\RegisterController.cs",
-              "RelativeDocumentMoniker": "..\\JSMS.Api\\Controllers\\RegisterController.cs",
-              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Api\\Controllers\\RegisterController.cs",
-              "RelativeToolTip": "..\\JSMS.Api\\Controllers\\RegisterController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T01:33:35.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\Models\\Register\\RegisterRequest.cs",
-              "RelativeDocumentMoniker": "..\\JSMS.Persitence\\Models\\Register\\RegisterRequest.cs",
-              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\Models\\Register\\RegisterRequest.cs",
-              "RelativeToolTip": "..\\JSMS.Persitence\\Models\\Register\\RegisterRequest.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA5wA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T03:02:52.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterRequestMapper.cs",
-              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\Mappers\\RegisterRequestMapper.cs",
-              "RelativeDocumentMoniker": "..\\JSMS.Persitence\\Mappers\\RegisterRequestMapper.cs",
-              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\Mappers\\RegisterRequestMapper.cs",
-              "RelativeToolTip": "..\\JSMS.Persitence\\Mappers\\RegisterRequestMapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T02:59:50.411Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Api\\Program.cs",
               "RelativeDocumentMoniker": "..\\JSMS.Api\\Program.cs",
               "ToolTip": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Api\\Program.cs",
               "RelativeToolTip": "..\\JSMS.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T01:40:50.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\Abstractions\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\JSMS.Persitence\\Abstractions\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\Abstractions\\IUserRepository.cs",
-              "RelativeToolTip": "..\\JSMS.Persitence\\Abstractions\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T03:26:58.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegisterRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\Repositories\\RegisterRepository.cs",
-              "RelativeDocumentMoniker": "..\\JSMS.Persitence\\Repositories\\RegisterRepository.cs",
-              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Persitence\\Repositories\\RegisterRepository.cs",
-              "RelativeToolTip": "..\\JSMS.Persitence\\Repositories\\RegisterRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T01:22:29.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Domain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Documents\\WebAppProjects\\JourneyStudentsManagementSystem\\JSMS.Domain\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T01:22:55.745Z"
+              "WhenOpened": "2024-07-17T21:34:25.318Z",
+              "EditorCaption": ""
             }
           ]
         },
